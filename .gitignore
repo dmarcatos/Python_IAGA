@@ -2,7 +2,18 @@ SEI 5573772 Edital 27 2025 - 1ª Alteracao.pdf
 DOCENTES DO CURSO DE ESPECIALIZAÇÃO.png
 Declaração de Matrícula.jpg
 Declaração de Matrícula.pdf
-.git
-.hypothesis
+*.git
+*.hypothesis
 desktop.ini
 Livros/
+*.pdf
+*.ppt
+*.pptx
+*.doc
+*.docx
+*.png
+*.jpg
+*.jpeg
+*.lnk
+*.ows
+.~lock*

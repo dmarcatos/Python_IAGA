@@ -1,0 +1,16 @@
+@relation APRIORI_EX1.arff
+
+@attribute ID numeric
+@attribute A {X}
+@attribute B {X}
+@attribute C {X}
+@attribute D {X}
+@attribute E {X}
+@attribute F {X}
+
+@data
+1,X,?,X,X,X,X
+2,X,X,?,?,X,?
+3,?,?,X,?,X,X
+4,?,?,X,X,?,X
+5,X,?,X,?,X,X

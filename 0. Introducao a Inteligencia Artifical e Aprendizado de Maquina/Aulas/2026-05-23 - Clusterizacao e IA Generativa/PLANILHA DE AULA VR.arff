@@ -1,0 +1,29 @@
+@relation 'PLANILHA DE AULA VR.txt'
+
+@attribute aluno_id {A01,A02,A03,A04,A05,A06,A07,A08,A09,A10,A11,A12,A13,A14,A15,A16,A17,A18}
+@attribute idade numeric
+@attribute horas_estudo_semana numeric
+@attribute participacao_aulas numeric
+@attribute entregas_prazo numeric
+@attribute nota_previa numeric
+@attribute classe_desempenho {baixo,medio,alto}
+
+@data
+A01,18,2,1,1,35,baixo
+A02,19,3,2,1,42,baixo
+A03,20,4,2,2,48,baixo
+A04,21,5,3,2,55,medio
+A05,22,6,3,3,60,medio
+A06,23,7,4,3,64,medio
+A07,24,8,4,4,70,medio
+A08,25,9,5,4,76,alto
+A09,26,10,5,5,82,alto
+A10,27,11,6,5,88,alto
+A11,28,12,6,6,92,alto
+A12,29,13,7,6,96,alto
+A13,18,1,1,0,30,baixo
+A14,20,2,2,1,38,baixo
+A15,22,5,3,2,57,medio
+A16,24,7,4,3,67,medio
+A17,26,9,5,4,79,alto
+A18,28,12,6,5,90,alto

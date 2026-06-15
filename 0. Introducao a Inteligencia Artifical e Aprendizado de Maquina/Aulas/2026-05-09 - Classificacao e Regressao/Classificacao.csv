@@ -1,0 +1,13 @@
+Idade;Renda;Estudante;Historico Credito;Compra
+Jovem;Baixa;Sim;Ruim;Nao
+Jovem;Baixa;Sim;Bom;Sim
+Jovem;Media;Nao;Ruim;Nao
+Jovem;Alta;Nao;Bom;Sim
+Adulto;Baixa;Nao;Ruim;Nao
+Adulto;Media;Nao;Bom;Sim
+Adulto;Alta;Sim;Bom;Sim
+Adulto;Media;Sim;Ruim;Sim
+Idoso;Baixa;Nao;Ruim;Nao
+Idoso;Media;Sim;Bom;Sim
+Idoso;Alta;Nao;Bom;Sim
+Idoso;Media;Nao;Ruim;Nao

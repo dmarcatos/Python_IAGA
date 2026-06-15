@@ -1,0 +1,24 @@
+@relation APRIORI_EX2.txt.arff
+
+@attribute ID numeric
+@attribute 'Toy Boy' {X}
+@attribute Ragnarok {X}
+@attribute 'O Setimo Guardiao' {X}
+@attribute 'La Casa de Papel' {X}
+@attribute 'Vis a Vis' {X}
+@attribute 'The Witcher' {X}
+@attribute Elite {X}
+
+@data
+1,X,X,X,X,?,?,X
+2,?,?,?,X,X,?,?
+3,?,X,X,?,?,X,X
+4,?,X,?,?,X,?,?
+5,X,X,?,X,X,?,X
+6,?,?,X,X,?,X,X
+7,X,X,?,X,?,X,X
+8,X,?,?,X,?,?,?
+9,X,X,?,X,X,?,X
+10,X,?,?,X,?,?,?
+11,X,X,?,X,X,?,X
+12,X,X,X,X,X,X,X

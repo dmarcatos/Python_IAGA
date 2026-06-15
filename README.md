@@ -7,6 +7,6 @@ Repository for exercises, projects and code developed during my postgraduate pro
 * `0. Introduction to Artificial Intelligence and Machine Learning`
 * `1. Python Fundamentals`
 
-Only source code and datasets required to run the exercises are tracked.
+Only source code and datasets required to run the exercises are versioned.
 
 Course materials such as slides, PDFs and supporting documents are intentionally excluded.
